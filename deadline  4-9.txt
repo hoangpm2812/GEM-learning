@@ -1,0 +1,38 @@
+Hibernate Log4j: Tài li?u + demo
+
+Inheritance Mapping: Tài li?u + demo
+- Hibernate Table Per Hierarchy - single table
+- Table Per Concrete - table per class
+- Table Per Subclass - joined
+
+//------------------------------------------------------------------------------
+Collection Mapping: Tài li?u + demo
+Collection Mapping in Hibernate
+- Mapping List
+One to Many mapping in Hibernate by List 
+- Mapping Bag
+One to Many mapping in Hibernate by List
+- Mapping Set
+One-to-many by Set
+- Mapping Map
+Many-to-many by Map
+//-------------------------------------------------------------------------------
+
+Native SQL
+
+Hibernate Query Language (HQL): Tài li?u + demo
+
+HCQL (Hibernate Criteria Query Language): Tài li?u + demo
+
+Hibernate Named Query: Tài li?u + demo
+
+Hibernate Caching
+
+M?t s? d?c di?m:
+FetcherType
+CascadeType
+
+Uu, nhu?c di?m c?a HQL, HCQL, Native SQL
+
+
+select book0_.id as id1_0_, book0_1_.publishingDate as publishi2_1_0_, book0_1_.title as title1_0_, book0_1_.version as version1_0_, book0_.pages as pages2_0_ from Book book0_ inner join Publication book0_1_ on book0_.id=book0_1_.id where book0_.id=?

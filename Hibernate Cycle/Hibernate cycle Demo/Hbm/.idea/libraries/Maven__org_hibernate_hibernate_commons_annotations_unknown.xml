@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate:hibernate-commons-annotations:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-commons-annotations/unknown/hibernate-commons-annotations-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-commons-annotations/unknown/hibernate-commons-annotations-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-commons-annotations/unknown/hibernate-commons-annotations-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
